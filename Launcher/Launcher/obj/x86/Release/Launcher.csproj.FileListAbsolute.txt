@@ -1,0 +1,17 @@
+D:\Source\c#\Work\Launcher\Launcher\bin\Release\Launcher.exe.manifest
+D:\Source\c#\Work\Launcher\Launcher\bin\Release\Launcher.application
+D:\Source\c#\Work\Launcher\Launcher\bin\Release\Launcher.exe
+D:\Source\c#\Work\Launcher\Launcher\bin\Release\Launcher.pdb
+D:\Source\c#\Work\Launcher\Launcher\obj\x86\Release\Launcher.csprojResolveAssemblyReference.cache
+D:\Source\c#\Work\Launcher\Launcher\obj\x86\Release\Launcher.Launcher.resources
+D:\Source\c#\Work\Launcher\Launcher\obj\x86\Release\Launcher.Form_Setup.resources
+D:\Source\c#\Work\Launcher\Launcher\obj\x86\Release\Launcher.Properties.Resources.resources
+D:\Source\c#\Work\Launcher\Launcher\obj\x86\Release\Launcher.Resource.resources
+D:\Source\c#\Work\Launcher\Launcher\obj\x86\Release\Launcher.csproj.GenerateResource.Cache
+D:\Source\c#\Work\Launcher\Launcher\obj\x86\Release\Launcher.TrustInfo.xml
+D:\Source\c#\Work\Launcher\Launcher\obj\x86\Release\Launcher.exe.manifest
+D:\Source\c#\Work\Launcher\Launcher\obj\x86\Release\Launcher.application
+D:\Source\c#\Work\Launcher\Launcher\obj\x86\Release\Launcher.exe
+D:\Source\c#\Work\Launcher\Launcher\obj\x86\Release\Launcher.pdb
+E:\Source\싸인텔레콤\1. Source\C#\Work\Launcher\Launcher\obj\x86\Release\Launcher.exe
+E:\Source\싸인텔레콤\1. Source\C#\Work\Launcher\Launcher\obj\x86\Release\Launcher.pdb
